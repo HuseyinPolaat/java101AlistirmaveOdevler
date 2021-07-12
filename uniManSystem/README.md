@@ -7,6 +7,6 @@
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
-##Sistemin Class Diyagramı: 
+##Sistemin Class Diyagramı:
 
 ![UYS](UYS.png)
