@@ -1,0 +1,1 @@
+![asimulasyon](asm.png)
