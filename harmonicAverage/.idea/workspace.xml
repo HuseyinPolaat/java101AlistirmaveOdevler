@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079565c1-02ef-4de8-b9d3-463e6d37ad24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../boxingMatch/out/production/boxingMatch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../boxingMatch/out/production/boxingMatch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boxingMatch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boxingMatch/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibonacciNumbers/out/production/fibonacciNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fibonacciNumbers/out/production/fibonacciNumbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibonacciNumbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fibonacciNumbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibonacciRecursive/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minMax/out/production/minMax/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../minMax/out/production/minMax/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minMax/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../minMax/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursivePrime/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recursivePrime/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salaryCalc/out/production/salaryCalc/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../salaryCalc/out/production/salaryCalc/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salaryCalc/out/production/salaryCalc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../salaryCalc/out/production/salaryCalc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salaryCalc/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../salaryCalc/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salaryCalc/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../salaryCalc/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-16.0.1/lib/src.zip!/java.base/java/lang/Math.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1tkoSdtHu0vJt2g8WkD7vANWucd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="harmonicAverage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079565c1-02ef-4de8-b9d3-463e6d37ad24" name="Default Changelist" comment="" />
+      <created>1623322451396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623322451396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
